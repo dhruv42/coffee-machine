@@ -1,5 +1,4 @@
-# coffee-machine
-Coffee Machine LLD - Dunzo
+# Coffee Machine LLD - Dunzo
 
 ## Steps to run the code.
 1. Do `npm install` to install all the dependencies.
